@@ -33,6 +33,7 @@ public class TorpedoStore {
   public boolean fire(int numberOfTorpedos){
     if(numberOfTorpedos < 1 || numberOfTorpedos > this.torpedoCount){
       //fixed missing throw statement making the whole method useless
+      //nice
       throw new IllegalArgumentException("numberOfTorpedos");
     }
 

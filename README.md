@@ -1,6 +1,6 @@
-![Maven](https://github.com/TuRAdaaM/se-lab/blob/main/.github/workflows/maven.yml)
+![Maven](https://github.com/TuRAdaaM/se-lab/blob/main/.github/workflows/maven.yml/badge.svg)
 
-![license](https://github.com/TuRAdaaM/se-lab/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # SE Spaceship
 

@@ -1,4 +1,4 @@
-![Maven](https://github.com/TuRAdaaM/se-lab/blob/main/.github/workflows/maven.yml/badge.svg)
+[![Java CI with Maven](https://github.com/TuRAdaaM/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/TuRAdaaM/se-lab/actions/workflows/maven.yml)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

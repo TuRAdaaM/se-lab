@@ -1,8 +1,6 @@
-![Maven]
-(https://github.com/TuRAdaaM/se-lab/blob/main/.github/workflows/maven.yml)
+![Maven](https://github.com/TuRAdaaM/se-lab/blob/main/.github/workflows/maven.yml)
 
-![license]
-(https://github.com/TuRAdaaM/se-lab/blob/main/LICENSE)
+![license](https://github.com/TuRAdaaM/se-lab/blob/main/LICENSE)
 
 # SE Spaceship
 

@@ -1,3 +1,9 @@
+![Maven]
+(https://github.com/TuRAdaaM/se-lab/blob/main/.github/workflows/maven.yml)
+
+![license]
+(https://github.com/TuRAdaaM/se-lab/blob/main/LICENSE)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
